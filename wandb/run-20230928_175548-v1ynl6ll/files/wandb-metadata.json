@@ -1,0 +1,40 @@
+{
+    "os": "macOS-13.5.2-arm64-arm-64bit",
+    "python": "3.11.5",
+    "heartbeatAt": "2023-09-28T22:55:48.953615",
+    "startedAt": "2023-09-28T22:55:48.462177",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "run",
+        "app.py",
+        "-w"
+    ],
+    "state": "running",
+    "program": "/opt/homebrew/Caskroom/miniforge/base/envs/llmops-day2/bin/chainlit",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:DGilmour5/LLM_Week2_HW1.git",
+        "commit": "abf0cf72fa35e96fa3307b0ed17a11338e15a212"
+    },
+    "email": "doug@gilmourfamily.com",
+    "root": "/Users/douggilmour/Documents/Training/llm/code/class3/LLM_Week2_HW1",
+    "host": "Dougs-MBP.lan",
+    "username": "douggilmour",
+    "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/llmops-day2/bin/python3.11",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 8.536735534667969
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 64.0
+    }
+}
